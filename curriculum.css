@@ -4,19 +4,19 @@
     margin-right: 18%;
     justify-content: center;
     wigth: 75%;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .contenedor{
     width:75%;
     padding: 10px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 principal{
     padding: 10px;
     width: 75%;
-    margin: auto;
+    margin: 0 auto;
 
 }
 
